@@ -11,7 +11,8 @@ const Login = () => {
    return (
       <TouchableOpacity style = {{ margin: 128 }} onPress = {goToSettings}>
          <Text>This is LOGIN!</Text>
-      </TouchableOpacity>
+      </TouchableOpacity>     
+      
    )
 }
 export default Login
