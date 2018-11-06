@@ -1,7 +1,6 @@
-import React from 'react'
+import React from 'react';
 import { TouchableOpacity, Text } from 'react-native';
 import { Actions } from 'react-native-router-flux';
-
 
 //we will import this variable called Login to routes.js
 const Login = () => {

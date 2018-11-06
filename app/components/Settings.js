@@ -1,6 +1,6 @@
-import React from 'react'
-import { TouchableOpacity, Text } from 'react-native'
-import { Actions } from 'react-native-router-flux'
+import React from 'react';
+import { TouchableOpacity, Text } from 'react-native';
+import { Actions } from 'react-native-router-flux';
 
 
 //we will import this variable called Settings to routes.js
